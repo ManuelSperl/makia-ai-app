@@ -23,8 +23,7 @@ The app is implemented in Dart and uses the Flutter mobile UI framework.
 
 ## Android Look and Feel
 
-<!-- <img src="screenshots/Android/Screenshot_2021-05-22-21-01-42-248.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-06-23-442.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-07-12-558.jpg" height="420px" >
-<img src="screenshots/Android/Screenshot_2021-05-22-21-09-23-218.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-10-33-846.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-11-04-553.jpg" height="420px" >
-<img src="screenshots/Android/Screenshot_2021-05-22-21-19-47-487.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-34-22-146.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-34-52-131.jpg" height="420px" >
-<img src="screenshots/Android/Screenshot_2021-05-22-21-37-11-50.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-39-58-016.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-40-14-174ion.jpg" height="420px" >
-<img src="screenshots/Android/Screenshot_2021-05-22-21-40-43-135.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-43-18-692_android.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-05-22-21-43-31-330.jpg" height="420px" > <img src="screenshots/Android/Screenshot_2021-06-18-13-12-36-157.jpg" height="420px" > -->
+<img src="screenshots/android/android 1.png" height="420px" > <img src="screenshots/android/android 2.png" height="420px" > <img src="screenshots/android/android 3.png" height="420px" >
+<img src="screenshots/android/android 4.png" height="420px" > <img src="screenshots/android/android 7.png" height="420px" > <img src="screenshots/android/android 5.png" height="420px" >
+<img src="screenshots/android/android 10.png" height="420px" > <img src="screenshots/android/android 8.png" height="420px" > <img src="screenshots/android/android 1.png" height="420px" >
+<img src="screenshots/android/android 6.png" height="420px" > <img src="screenshots/android/android 9.png" height="420px" >
