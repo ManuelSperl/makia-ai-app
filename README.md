@@ -25,5 +25,4 @@ The app is implemented in Dart and uses the Flutter mobile UI framework.
 
 <img src="screenshots/android/android 1.png" height="420px" > <img src="screenshots/android/android 2.png" height="420px" > <img src="screenshots/android/android 3.png" height="420px" >
 <img src="screenshots/android/android 4.png" height="420px" > <img src="screenshots/android/android 7.png" height="420px" > <img src="screenshots/android/android 5.png" height="420px" >
-<img src="screenshots/android/android 10.png" height="420px" > <img src="screenshots/android/android 8.png" height="420px" > <img src="screenshots/android/android 1.png" height="420px" >
-<img src="screenshots/android/android 6.png" height="420px" > <img src="screenshots/android/android 9.png" height="420px" >
+<img src="screenshots/android/android 10.png" height="420px" > <img src="screenshots/android/android 8.png" height="420px" > <img src="screenshots/android/android 6.png" height="420px" > <img src="screenshots/android/android 9.png" height="420px" >
