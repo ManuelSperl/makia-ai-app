@@ -1,4 +1,4 @@
-# Application to display represent Project relevant Information, from Makia.Ai, in Dart/Flutter
+# Application to represent Project relevant Information, from Makia.Ai, in Dart/Flutter
 
 In Austria, it is neccessary to stop at an intersection marked with a stop sign. 
 The Makia.AI project focuses on railroad crossings that are indicated with a stop sign. 
