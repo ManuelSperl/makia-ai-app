@@ -16,7 +16,7 @@ The app is implemented in Dart and uses the Flutter mobile UI framework.
 - Refresh camera image every few seconds
 
 ## iOS Look and Feel
-<img src="screenshots/iOS/iOS 1.gif" height="420px" > <img src="screenshots/iOS/iOS 2.gif" height="420px" > <img src="screenshots/iOS/iOS 3.gif" height="420px" > 
+<img src="screenshots/iOS/iOS 1.gif" height="520px" > <img src="screenshots/iOS/iOS 2.gif" height="520px" > <img src="screenshots/iOS/iOS 3.gif" height="520px" > 
 <img src="screenshots/iOS/iOS 4.gif" height="420px" > <img src="screenshots/iOS/iOS 5.gif" height="420px" > 
 
 
