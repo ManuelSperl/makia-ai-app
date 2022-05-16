@@ -17,11 +17,11 @@ The app is implemented in Dart and uses the Flutter mobile UI framework.
 
 ## iOS Look and Feel
 <img src="screenshots/iOS/iOS 1.gif" height="520px" > <img src="screenshots/iOS/iOS 2.gif" height="520px" > <img src="screenshots/iOS/iOS 3.gif" height="520px" > 
-<img src="screenshots/iOS/iOS 4.gif" height="420px" > <img src="screenshots/iOS/iOS 5.gif" height="420px" > 
+<img src="screenshots/iOS/iOS 4.gif" height="520px" > <img src="screenshots/iOS/iOS 5.gif" height="520px" > 
 
 
 ## Android Look and Feel
 
-<img src="screenshots/android/android 1.png" height="420px" > <img src="screenshots/android/android 2.png" height="420px" > <img src="screenshots/android/android 3.png" height="420px" >
-<img src="screenshots/android/android 4.png" height="420px" > <img src="screenshots/android/android 7.png" height="420px" > <img src="screenshots/android/android 5.png" height="420px" >
-<img src="screenshots/android/android 10.png" height="420px" > <img src="screenshots/android/android 8.png" height="420px" > <img src="screenshots/android/android 6.png" height="420px" > <img src="screenshots/android/android 9.png" height="420px" >
+<img src="screenshots/android/android 1.png" height="520px" > <img src="screenshots/android/android 2.png" height="520px" > <img src="screenshots/android/android 3.png" height="520px" >
+<img src="screenshots/android/android 4.png" height="520px" > <img src="screenshots/android/android 7.png" height="520px" > <img src="screenshots/android/android 5.png" height="520px" >
+<img src="screenshots/android/android 10.png" height="520px" > <img src="screenshots/android/android 8.png" height="520px" > <img src="screenshots/android/android 6.png" height="520px" > <img src="screenshots/android/android 9.png" height="520px" >
