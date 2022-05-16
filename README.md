@@ -1,4 +1,4 @@
-# Application to create delivery notes for cattles in Dart/Flutter
+# Application to display represent Project relevant Information, from Makia.Ai, in Dart/Flutter
 
 In Austria, it is neccessary to stop at an intersection marked with a stop sign. 
 The Maria.AI project focuses on railroad crossings that are indicated with a stop sign. 
@@ -16,9 +16,8 @@ The app is implemented in Dart and uses the Flutter mobile UI framework.
 - Refresh camera image every few seconds
 
 ## iOS Look and Feel
-<!-- <img src="screenshots/01_login_and_add_animal.gif" height="420px" > <img src="screenshots/02_dd_animal_via_gallery.gif" height="420px" > <img src="screenshots/03_edit_animal.gif" height="420px" > 
-<img src="screenshots/04_addPerson.gif" height="420px" > <img src="screenshots/05_changeTransport.gif" height="420px" > <img src="screenshots/06_completeDeliveryNote.gif" height="420px" >
-<img src="screenshots/07_loadOldSchein.gif" height="420px" > <img src="screenshots/08_deleteAllPersons.gif" height="420px" > -->
+<img src="screenshots/iOS/iOS 1.gif" height="420px" > <img src="screenshots/iOS/iOS 2.gif" height="420px" > <img src="screenshots/iOS/iOS 3.gif" height="420px" > 
+<img src="screenshots/iOS/iOS 4.gif" height="420px" > <img src="screenshots/iOS/iOS 5.gif" height="420px" > 
 
 
 ## Android Look and Feel
