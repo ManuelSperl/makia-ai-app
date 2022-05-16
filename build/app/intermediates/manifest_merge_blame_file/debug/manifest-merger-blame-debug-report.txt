@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/manuelsperl/Desktop/Uni/Bachelorarbeit Sperl/Makia-AI/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/manuelsperl/Desktop/Uni/Bachelorarbeit Sperl/Makia-AI/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/manuelsperl/Desktop/Uni/Bachelorarbeit Sperl/Makia-AI/android/app/src/main/AndroidManifest.xml:34:5-66
+14-->/Users/manuelsperl/Desktop/Uni/Bachelorarbeit Sperl/Makia-AI/android/app/src/main/AndroidManifest.xml:34:22-64
 15
 16    <application
 17        android:name="android.app.Application"

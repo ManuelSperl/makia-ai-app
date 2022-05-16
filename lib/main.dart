@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' as services;
 
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
@@ -22,6 +23,13 @@ import 'package:makia_ai/widgets/search_field.dart';
 
 Future main() async {
   await flutterSettings.Settings.init(cacheProvider: flutterSettings.SharePreferenceCache());
+  WidgetsFlutterBinding.ensureInitialized();
+
+  // deactivates Landscape-Mode on the Devices
+  services.SystemChrome.setPreferredOrientations([
+    services.DeviceOrientation.portraitUp,
+    services.DeviceOrientation.portraitDown,
+  ]);
 
   runApp(MyApp());
 }

@@ -34,7 +34,6 @@ dependencies:
   tinycolor: ^1.0.3
   http: ^0.13.4
   shared_preferences: ^2.0.13
-  dropdown_button2: ^1.2.1
   another_flushbar: ^1.10.28
   flutter_settings_screens: ^0.2.2+1
 

@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		IVsJBmA1FfDKNVcCzUE60cWkWoo=
+		QKaREazQLbzbQNC8+pACQZVH/dY=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2lM9L7VJIC/n/PoXpKliLOX4YJw=
+		kRsGkR4eIdZY1P5zpSaWDghD+jM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		lJukxJtsRIsdtHi1Ys7eBtt9bfE=
+		j/qjLm2tBu1JUUr5Puo99HEl8qc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/makiaAI_AppIcon.png</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		ATO5wt1wCmd+AsJhTlrV9QJ7z8U=
+		a2I4OJ4ydM0lodCMkX1J7wbid+8=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -326,7 +326,7 @@
 		</data>
 		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		WxS4lt6sC21Hq1zs1aSFTjTZyOI=
+		gq0F8EFVuBzXBsWYha6yo1FCra8=
 		</data>
 		<key>Frameworks/shared_preferences_ios.framework/Info.plist</key>
 		<data>
@@ -338,7 +338,7 @@
 		</data>
 		<key>Frameworks/shared_preferences_ios.framework/shared_preferences_ios</key>
 		<data>
-		/XxBFTRRks2iaJg23MWuhxAnvRM=
+		ZfcLcHgH2Jg6JqrSeKUAzmJ54SQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -350,7 +350,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		uxnNF5A4Iy2Q8OepEVxq2ye/09M=
+		fw5pZjyDrIuDBDELlv+4fAoZP14=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -645,11 +645,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IVsJBmA1FfDKNVcCzUE60cWkWoo=
+			QKaREazQLbzbQNC8+pACQZVH/dY=
 			</data>
 			<key>hash2</key>
 			<data>
-			iePM/1bH5WZZ6WBmX0Oi/7J0e2jtF4fuSRf9OkgErHI=
+			7uUxlzl1vGJVynICGSdAeNYSTLXxr1+HO+Vva4kqvok=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -667,11 +667,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2lM9L7VJIC/n/PoXpKliLOX4YJw=
+			kRsGkR4eIdZY1P5zpSaWDghD+jM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zCrdFonnG2J2hFJsS+g7n33X5DlQx1FP7BwcpIief/A=
+			G7QLVVpqv9avq5gv3E330a93as3YBn6D9JYssGx+TZE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -700,11 +700,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lJukxJtsRIsdtHi1Ys7eBtt9bfE=
+			j/qjLm2tBu1JUUr5Puo99HEl8qc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ps3SiXELjOKr8DeCbXhfRYi9zLwWglfCMqUAFN1okMQ=
+			JFvX/LNoAqihIn4kpeRTifesOURg1vekAfzuk8RBJhM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/makiaAI_AppIcon.png</key>
@@ -832,11 +832,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ATO5wt1wCmd+AsJhTlrV9QJ7z8U=
+			a2I4OJ4ydM0lodCMkX1J7wbid+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			HGiQx09OYpm5yfXoSnTYbwnUlTzwI1WlmHBimKnmSfQ=
+			L09X4LvgCuZoASYMuBBftkoY7bnwwnMHRS+BeMjlLhg=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -1239,11 +1239,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WxS4lt6sC21Hq1zs1aSFTjTZyOI=
+			gq0F8EFVuBzXBsWYha6yo1FCra8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lr05sQygzgQSOqnO87zdXA85Jokz1w0bF/9BJ5qj7jw=
+			DrKrLT/TIdkSvYUuFVpgLlFcgJgj1p1FCZ2LhbEjuuE=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_ios.framework/Info.plist</key>
@@ -1272,22 +1272,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/XxBFTRRks2iaJg23MWuhxAnvRM=
+			ZfcLcHgH2Jg6JqrSeKUAzmJ54SQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nfz5mu329IRfgYazh142WCwhVjqPVYIhQxtRsk6dMRo=
+			jjwCoVWU58ywNi4lxP4KlB+maGWSDe4SA6vQ1Mohsf4=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uxnNF5A4Iy2Q8OepEVxq2ye/09M=
+			fw5pZjyDrIuDBDELlv+4fAoZP14=
 			</data>
 			<key>hash2</key>
 			<data>
-			fV2KSMcwAkwvYIh1Gly3zNrzHdzo3ROU3mcHcbtDS3k=
+			4wUwOikfyCm8h+ShNANupi+BX/zMjtphjn23ltF5yp0=
 			</data>
 		</dict>
 	</dict>
